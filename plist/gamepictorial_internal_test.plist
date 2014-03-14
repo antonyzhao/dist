@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.joyme.app.ios.appstore.gamepictorial</string>
+				<string>com.joyme.app.ios.appstore.flag.gamepictorial</string>
 				<key>bundle-version</key>
 				<string>1.0.001</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>手游画报</string>
+				<string>手游画报内测版</string>
 				<key>title</key>
-				<string>手游画报</string>
+				<string>手游画报内测版</string>
 			</dict>
 		</dict>
 	</array>
