@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.joyme.app.ios.appstore.flag.gamepictorial</string>
+				<string>com.joyme.app.ios.appstore.flag.gamepictorial-flag</string>
 				<key>bundle-version</key>
 				<string>1.0.001</string>
 				<key>kind</key>
