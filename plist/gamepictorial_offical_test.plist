@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.77.99:8889/ios/gamepictorial_offical_test.ipa</string>
+					<string>http://172.16.77.99:9999/ios/gamepictorial_offical_test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
