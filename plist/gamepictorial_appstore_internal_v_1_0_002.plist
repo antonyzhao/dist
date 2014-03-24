@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.github.com/superior2008/dist/master/plist/pictorial74X74.png</string>
+					<string>https://raw.github.com/antonyzhao/dist/master/plist/pictorial74X74.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.github.com/superior2008/dist/master/plist/pictorial512X512.png</string>
+					<string>https://raw.github.com/antonyzhao/dist/master/plist/pictorial512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
